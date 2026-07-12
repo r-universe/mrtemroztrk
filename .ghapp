@@ -1,0 +1,10 @@
+{
+  "id": 146162154,
+  "created_at": "2026-07-12T22:27:05.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["example-R-package-release"]
+}
